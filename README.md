@@ -16,6 +16,7 @@ O classe Cadastro está pegando os dados do usuário pelo Scanner, já a classe 
 A classe JDBCTEste é a main.
 
 E como bônus, me arrisquei fazendo uma GUI" Grafical User Interface" simples utilizando a classe InsterfaceGUI pra colocar os Listenners e a classe JDBCInterfaceTeste pra exibir o programinha...
+"A interface gráfica deve ser usada em conjunto com o terminal da IDE que irá pedir os dados para conexão com o servidor"...
 
 ### Insert
 ![Insert](https://user-images.githubusercontent.com/60450622/111563894-93797280-8777-11eb-973b-a72631491973.PNG)
